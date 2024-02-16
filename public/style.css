@@ -1,0 +1,41 @@
+
+
+*{
+  margin: 0;
+  background-color: #B6CAD3;
+}
+#d{
+  background-color: white; 
+  height: 100px; 
+  width: 300px; 
+  border: 2px solid #8E62AD;
+  margin: auto; 
+  margin-top: 20px; 
+}
+#title{
+  text-align: center; 
+  color: #8E62AD;
+  font-weight: 700;  
+}
+#b{
+  background-color: #DDF2FD;
+  color: #8E62AD; 
+  border-radius: 25px; 
+  padding: 10px; 
+  text-align: center;
+  border: 2px solid #8E62AD; 
+  text-align: center;  
+  font-size: 18px; 
+  font-weight: 400;
+  width: 150px; 
+  margin:auto; 
+  display: block; 
+  margin-top: 20px; 
+}
+
+h1 {
+  font-family: "Arimo", sans-serif;
+  font-optical-sizing: auto;
+  
+  font-style: normal; 
+}
