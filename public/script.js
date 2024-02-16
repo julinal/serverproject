@@ -1,5 +1,5 @@
-function randint() {
-    document.getElementById("d").innerText(Math.random() * 100);
-}
-
-document.getElementById("d").addEventListener("click", randint());
+const btn = document.getElementById("b");
+const div = document.getElementById("d");
+btn.addEventListener('click', function(){
+    div.textContent = Math.floor(Math.random() * 100 +1);
+});
